@@ -121,8 +121,7 @@
 }
 
 .phonering-alo-ph-img-circle {
-	position: fixed;
-   
+	position: fixed;   
     z-index: 99999;
     width:60px;
     height:60px;
@@ -168,6 +167,10 @@
 
 .phonering-alo-phone.phonering-alo-gray .phonering-alo-ph-img-circle {
     background-color:#75eb50
+}
+
+.zalo-img{
+    margin-bottom: 60%;
 }
 
 @-webkit-keyframes phonering-alo-circle-anim {
